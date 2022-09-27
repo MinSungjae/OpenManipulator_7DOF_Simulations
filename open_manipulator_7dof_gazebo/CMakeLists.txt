@@ -58,14 +58,14 @@ include_directories(
   ${GAZEBO_INCLUDE_DIRS}
 )
 
-add_executable(omp_gripper_sub_publisher src/omp_gripper_sub_publisher.cpp)
-add_dependencies(omp_gripper_sub_publisher ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-target_link_libraries(omp_gripper_sub_publisher ${catkin_LIBRARIES})
+add_executable(omp7_gripper_sub_publisher src/omp7_gripper_sub_publisher.cpp)
+add_dependencies(omp7_gripper_sub_publisher ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(omp7_gripper_sub_publisher ${catkin_LIBRARIES})
 
 ################################################################################
 # Install
 ################################################################################
-install(TARGETS omp_gripper_sub_publisher
+install(TARGETS omp7_gripper_sub_publisher
   RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 

@@ -24,6 +24,6 @@
                             gripper_sub_position"/>
 
     <!-- Run gripper sub position publisher -->
-    <node name="omp_gripper_sub_publisher" pkg="open_manipulator_7dof_gazebo" type="omp_gripper_sub_publisher" output="screen"/>
+    <node name="omp7_gripper_sub_publisher" pkg="open_manipulator_7dof_gazebo" type="omp7_gripper_sub_publisher" output="screen"/>
   </group>
 </launch>
