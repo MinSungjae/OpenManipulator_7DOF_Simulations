@@ -1,8 +1,8 @@
-# OpenMANIPULATOR-P Simulations
+# OpenMANIPULATOR-7DOF Simulations
 
-[![kinetic-devel Status](https://github.com/ROBOTIS-GIT/open_manipulator_p_simulations/workflows/kinetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/open_manipulator_p_simulations/tree/kinetic-devel)
+<!-- [![kinetic-devel Status](https://github.com/ROBOTIS-GIT/open_manipulator_p_simulations/workflows/kinetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/open_manipulator_p_simulations/tree/kinetic-devel)
 [![melodic-devel Status](https://github.com/ROBOTIS-GIT/open_manipulator_p_simulations/workflows/melodic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/open_manipulator_p_simulations/tree/melodic-devel)
-[![noetic-devel Status](https://github.com/ROBOTIS-GIT/open_manipulator_p_simulations/workflows/noetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/open_manipulator_p_simulations/tree/noetic-devel)
+[![noetic-devel Status](https://github.com/ROBOTIS-GIT/open_manipulator_p_simulations/workflows/noetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/open_manipulator_p_simulations/tree/noetic-devel) -->
 
 ![](https://emanual.robotis.com/assets/images/platform/openmanipulator_p/launch_gazebo.png)
 
